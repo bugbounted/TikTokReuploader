@@ -1,0 +1,9 @@
+requests
+webdriver
+selenium
+urllib
+webdriver-manager
+
+# only if you are using youtube for downloading
+youtube-search-python
+youtube_dl
